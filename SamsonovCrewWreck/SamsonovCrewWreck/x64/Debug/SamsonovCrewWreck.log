@@ -1,0 +1,13 @@
+﻿  main.cpp
+d:\libinclude\include\mesh.h(51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\libinclude\include\mesh.h(57): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+d:\openglprojects\tu22\samsonovcrewwreck\samsonovcrewwreck\main.cpp(159): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\openglprojects\tu22\samsonovcrewwreck\samsonovcrewwreck\main.cpp(193): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\openglprojects\tu22\samsonovcrewwreck\samsonovcrewwreck\main.cpp(194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\openglprojects\tu22\samsonovcrewwreck\samsonovcrewwreck\main.cpp(198): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\openglprojects\tu22\samsonovcrewwreck\samsonovcrewwreck\main.cpp(199): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\openglprojects\tu22\samsonovcrewwreck\samsonovcrewwreck\main.cpp(200): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\openglprojects\tu22\samsonovcrewwreck\samsonovcrewwreck\main.cpp(201): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\openglprojects\tu22\samsonovcrewwreck\samsonovcrewwreck\main.cpp(208): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  SamsonovCrewWreck.vcxproj -> D:\openGLProjects\tu22\SamsonovCrewWreck\x64\Debug\SamsonovCrewWreck.exe
